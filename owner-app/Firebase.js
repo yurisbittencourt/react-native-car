@@ -3,7 +3,7 @@ import { getFirestore } from "firebase/firestore";
 import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBV2V0kZ-PuxZoK32bdI1eYeKrkRVQSDDk",
+  apiKey: "API_KEY",
   authDomain: "gbc-react-native.firebaseapp.com",
   projectId: "gbc-react-native",
   storageBucket: "gbc-react-native.appspot.com",
